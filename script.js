@@ -17,20 +17,5 @@ function colorListiner()
 color1.addEventListener("input", colorListiner)
 color2.addEventListener("input", colorListiner)
     
-var sa= {
-    
-    krish
 
-
-
-    krish{
-
-        sfsl
-    }
-
-
-
-
-
-}
 
